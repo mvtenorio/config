@@ -1,0 +1,11 @@
+// Place your settings in this file to overwrite the default settings
+{
+      "editor.fontSize": 18,
+      "editor.fontFamily": "Fira Code",
+      "editor.fontLigatures": true,
+      "editor.lineHeight": 35,
+      "editor.renderIndentGuides": true,
+      "files.insertFinalNewline": true,
+      "files.trimTrailingWhitespace": true,
+      "php.suggest.basic": false
+}
