@@ -1,0 +1,28 @@
+{
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Fira Mono",
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 10,
+	"line_padding_top": 10,
+	"theme": "Boxy Ocean.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"ui_big_tabs": true,
+	"ui_fix_tab_labels": true,
+	"ui_font_size_small": true,
+	"ui_font_source_code_pro": true,
+	"ui_separator": true,
+	"ui_wide_scrollbars": true,
+	"word_wrap": "true"
+}
