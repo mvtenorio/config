@@ -6,6 +6,7 @@
       "editor.formatOnPaste": true,
       "editor.lineHeight": 35,
       "editor.renderIndentGuides": true,
+      "editor.wordWrap": "on",
       "files.insertFinalNewline": true,
       "files.trimTrailingWhitespace": true,
       "php.suggest.basic": false,
