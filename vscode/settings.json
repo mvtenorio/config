@@ -7,9 +7,11 @@
       "editor.lineHeight": 35,
       "editor.renderIndentGuides": true,
       "editor.wordWrap": "on",
+      "explorer.autoReveal": false,
       "files.insertFinalNewline": true,
       "files.trimTrailingWhitespace": true,
       "php.suggest.basic": false,
       "workbench.colorTheme": "Sublime Material Theme - Dark",
+      "workbench.editor.enablePreviewFromQuickOpen": false,
       "workbench.iconTheme": "vs-seti"
 }
