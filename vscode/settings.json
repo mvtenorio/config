@@ -5,6 +5,7 @@
       "editor.fontSize": 18,
       "editor.formatOnPaste": true,
       "editor.lineHeight": 35,
+      "editor.multiCursorModifier": "ctrlCmd",
       "editor.renderIndentGuides": true,
       "editor.wordWrap": "on",
       "explorer.autoReveal": false,
